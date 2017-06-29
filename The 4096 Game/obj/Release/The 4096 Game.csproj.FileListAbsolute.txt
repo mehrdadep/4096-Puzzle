@@ -1,0 +1,28 @@
+E:\Programming\C#\The 4096 Game\The 4096 Game\bin\Release\Img\0.png
+E:\Programming\C#\The 4096 Game\The 4096 Game\bin\Release\Img\1024.png
+E:\Programming\C#\The 4096 Game\The 4096 Game\bin\Release\Img\128.png
+E:\Programming\C#\The 4096 Game\The 4096 Game\bin\Release\Img\16.png
+E:\Programming\C#\The 4096 Game\The 4096 Game\bin\Release\Img\2.png
+E:\Programming\C#\The 4096 Game\The 4096 Game\bin\Release\Img\2048.png
+E:\Programming\C#\The 4096 Game\The 4096 Game\bin\Release\Img\256.png
+E:\Programming\C#\The 4096 Game\The 4096 Game\bin\Release\Img\32.png
+E:\Programming\C#\The 4096 Game\The 4096 Game\bin\Release\Img\4.png
+E:\Programming\C#\The 4096 Game\The 4096 Game\bin\Release\Img\4096.png
+E:\Programming\C#\The 4096 Game\The 4096 Game\bin\Release\Img\512.png
+E:\Programming\C#\The 4096 Game\The 4096 Game\bin\Release\Img\64.png
+E:\Programming\C#\The 4096 Game\The 4096 Game\bin\Release\Img\8.png
+E:\Programming\C#\The 4096 Game\The 4096 Game\bin\Release\Img\lose.png
+E:\Programming\C#\The 4096 Game\The 4096 Game\bin\Release\Img\startup.png
+E:\Programming\C#\The 4096 Game\The 4096 Game\bin\Release\Img\win.png
+E:\Programming\C#\The 4096 Game\The 4096 Game\bin\Release\The 4096 Game.exe.config
+E:\Programming\C#\The 4096 Game\The 4096 Game\bin\Release\The 4096 Game.exe.manifest
+E:\Programming\C#\The 4096 Game\The 4096 Game\bin\Release\The 4096 Game.application
+E:\Programming\C#\The 4096 Game\The 4096 Game\bin\Release\The 4096 Game.exe
+E:\Programming\C#\The 4096 Game\The 4096 Game\bin\Release\The 4096 Game.pdb
+E:\Programming\C#\The 4096 Game\The 4096 Game\obj\Release\The_4096_Game.Form1.resources
+E:\Programming\C#\The 4096 Game\The 4096 Game\obj\Release\The_4096_Game.Properties.Resources.resources
+E:\Programming\C#\The 4096 Game\The 4096 Game\obj\Release\The 4096 Game.csproj.GenerateResource.Cache
+E:\Programming\C#\The 4096 Game\The 4096 Game\obj\Release\The 4096 Game.exe.manifest
+E:\Programming\C#\The 4096 Game\The 4096 Game\obj\Release\The 4096 Game.application
+E:\Programming\C#\The 4096 Game\The 4096 Game\obj\Release\The 4096 Game.exe
+E:\Programming\C#\The 4096 Game\The 4096 Game\obj\Release\The 4096 Game.pdb
